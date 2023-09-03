@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(rgb(103, 255, 2),rgb(0, 225, 255),rgb(255, 0, 0));
+}
+h1{
+    font-size: 40px;
+}
+img{
+    width: 400px;
+}
